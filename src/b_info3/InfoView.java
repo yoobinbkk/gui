@@ -143,7 +143,6 @@ public class InfoView {
 		});	// end of addActionListener
 		
 		bCancel.addActionListener(new ActionListener() {
-			@Override
 			public void actionPerformed(ActionEvent e) {
 				clearTextField();
 			}	// end of ActionListener
